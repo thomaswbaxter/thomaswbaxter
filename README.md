@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack Developer</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Software Engineer</h1>
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
 <p align="center">
   <a href="https://github.com/topfreeworker123"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;8+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
