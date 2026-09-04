@@ -21,7 +21,7 @@ I have built secure platforms, improved system performance, simplified complex w
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-java-icon-226002.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-spring-boot-icon-15104389.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/next-icon-7694085.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/next-js-3d-icon-14503684.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-mysql-icon-226033.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-3629020-3030245.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-claude-icon-15129159.png" width="100"></td>
