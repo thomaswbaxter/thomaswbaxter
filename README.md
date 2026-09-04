@@ -25,10 +25,10 @@ I have built secure platforms, improved system performance, simplified complex w
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/flutter-3772085-3151178.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-mysql-icon-226033.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-3629020-3030245.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-amazon-icon-226069.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-spring-boot-icon-15104389.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-claude-icon-15129159.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-cursor-icon-14515725.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/git-17-1175218.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-282739.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/firebase-3628772-3030134.png" width="100"></td>
   </tr>
   </table>
