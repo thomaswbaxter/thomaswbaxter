@@ -1,4 +1,4 @@
-<img width="486" height="19" alt="image" src="https://github.com/user-attachments/assets/9fa5b3a2-afcd-457a-b522-fec2177d9faf" /><h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Software Engineer</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Software Engineer</h1>
 <p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/webdev1109/webdev1109/main/visionnaire-linguagens-de-programacao_14045_img.jpg" style = "width: -webkit-fill-available;"/></p>
 
 Senior Full-Stack Software Engineer with 10 years of experience designing and delivering scalable applications across healthcare, consulting, and enterprise environments. 
